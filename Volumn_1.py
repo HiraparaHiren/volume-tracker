@@ -35,7 +35,7 @@ def main():
     st.title("Welcome! Data Analysis World...")
     entered_password = st.text_input("Enter Password:", type="password")
 
-    if entered_password == "123":
+    if entered_password == "Hiren#8045":
         st.success("Access granted! You are now logged in.")
 
         st.title("Project Of Stock.")
