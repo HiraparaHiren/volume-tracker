@@ -1,4 +1,7 @@
-streamlit==1.4.0
-beautifulsoup4==4.10.0
+streamlit
+beautifulsoup4
 Pool
+//streamlit==1.4.0
+//beautifulsoup4==4.10.0
+//Pool
 
