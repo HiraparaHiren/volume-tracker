@@ -1,0 +1,7 @@
+streamlit==1.4.0
+beautifulsoup4==4.10.0
+retrying
+aiohttp
+asyncio
+Pool
+cpu_count
