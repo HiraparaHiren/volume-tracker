@@ -32,10 +32,10 @@ def abc(urls):
     return rows
 
 def main():
-    st.title("Welcome! Data Analysis World...H#8.4.")
+    st.title("Welcome! Data Analysis World...///")
     entered_password = st.text_input("Enter Password:", type="password")
 
-    if entered_password == "Hiren#8045":
+    if entered_password == "///":
         st.success("Access granted! You are now logged in.")
 
         st.title("Project Of Stock.")
